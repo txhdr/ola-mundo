@@ -1,2 +1,5 @@
-# ola mundo
- primeiro repositorio versionadoj
+# olá, Mundo
+ primeiro repositorio versionado
+
+
+REpositório criado durante uma aula ao vivo!
